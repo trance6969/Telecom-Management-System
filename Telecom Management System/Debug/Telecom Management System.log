@@ -1,0 +1,7 @@
+﻿  Telecom Management System.cpp
+C:\Users\Moon Khan\source\repos\Telecom Management System\Telecom Management System\Telecom Management System.cpp(5,6): warning C4101: 'label1': unreferenced local variable
+C:\Users\Moon Khan\source\repos\Telecom Management System\Telecom Management System\Telecom Management System.cpp(154,6): warning C4101: 'label1': unreferenced local variable
+C:\Users\Moon Khan\source\repos\Telecom Management System\Telecom Management System\Telecom Management System.cpp(303,6): warning C4101: 'label1': unreferenced local variable
+C:\Users\Moon Khan\source\repos\Telecom Management System\Telecom Management System\Telecom Management System.cpp(429,6): warning C4101: 'label1': unreferenced local variable
+C:\Users\Moon Khan\source\repos\Telecom Management System\Telecom Management System\Telecom Management System.cpp(579,10): warning C4101: 'b': unreferenced local variable
+  Telecom Management System.vcxproj -> C:\Users\Moon Khan\source\repos\Telecom Management System\Debug\Telecom Management System.exe
